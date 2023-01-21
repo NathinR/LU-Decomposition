@@ -15,7 +15,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 3. Using the np.linalg.slove(),we can find the solutions.
 
-4. 
+4. End Program.
 
 ## Program:
 (i) To find the L and U matrix
